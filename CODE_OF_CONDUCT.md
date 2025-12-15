@@ -1,2 +1,1 @@
-# Example code of conduct
-Sample text
+# Test file
