@@ -1,2 +1,11 @@
-# Example code of conduct
-Sample text
+<!--
+  **********************************************************************
+  ***                DO NOT MODIFY THIS FILE DIRECTLY                ***
+  **********************************************************************
+   The original copy of this file is in the beeware/.github repository.
+   It will be automatically copied into other BeeWare repositories when
+   the original is altered. Any changes should be made to the original.
+  **********************************************************************
+-->
+
+# Test file
