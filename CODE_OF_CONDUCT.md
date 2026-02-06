@@ -9,4 +9,4 @@
 -->
 
 # Test file
-example4
+same diff
