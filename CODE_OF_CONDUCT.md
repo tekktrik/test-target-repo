@@ -9,4 +9,4 @@
 -->
 
 # Test file
-example2
+example3
